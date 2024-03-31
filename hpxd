@@ -1,0 +1,2781 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+	<head>
+    <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<title>和平小店</title>
+		<link rel="stylesheet" type="text/css" href="static/css/style.css">
+        <meta name="tencent-site-verification" content="e2e0e8c22d95ba272020312237714ce9">
+
+	</head>
+
+	<body id="top">
+
+<div class="header">
+  <h3>和平小店<div class="wdye"><span id="ye">0</span><img src="static/picture/m.png" width="30px"></div></h3>
+
+
+</div>
+<div class="wbd" onclick="ljbd()">
+  <span class="jsxx">角色信息：未绑定</span>
+  <a class="ljbd">立即绑定角色</a>
+</div>
+		<div class="cont">
+			<div class="dh">
+				<div class="nav1">
+					<div class="act" onclick="qbsp()">全部商品</div>
+					<div onclick="ygz()">已关注</div>
+				</div>
+				<span class="hz" onclick="hz(this)"></span>
+			</div>
+
+			<div class="lists">
+
+						<div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/sc.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限时二折</span> <b id="mingzi">ss26精英手册
+								</b></h3>
+								<span class="xl xl2">限时二折</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">120</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list_list lists2" id="list">
+				    
+				 <div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/6h.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】套装-6号树人
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">150</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+   
+				    <div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/106.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】角色-青焰关公
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">100</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+
+<div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/107.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】角色-中猛周仓							
+                                                                   </b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">150</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+
+
+						<div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/91.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】套装-火箭少女101粉色
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">100</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+<div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/109.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】赤兔
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">150</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+<div class="list" onclick="goumai(event)" data-id="3">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/108.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【7天体验卡】角色-忠义严颜
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">150</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即领取</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+						<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/101.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【永久】载具-杜卡迪 Panigale v4(霓虹紫)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					
+				  <div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/102.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-杜卡迪 Panigale v4(杜卡迪红)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/100.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-杜卡迪 Panigale v4(星耀白)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					 <div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/104.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-怪诞乔克
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					 <div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/105.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-暗影哥特
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>					
+					
+										 <div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/105.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-红红火火
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/92.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利欧陆GT敞篷（深空蓝）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/93.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利欧陆GT敞篷（火焰橘）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/94.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利BATUR（星火红）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/95.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利BATUR（极速紫）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/96.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利飞驰（皇家紫）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/97.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利飞驰（布罗德盖棕双色）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+									
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/98.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利添越（浅瞪羚棕）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">0</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+										
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/99.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-宾利添越（彩虹光）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">0</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/1.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-2号机款机体服
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">0</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					<div class="list" onclick="goumai(event)" data-id="2">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/3.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-初号机款机体服
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">0</span>
+									<a class="gz" onclick="gz(this,'3')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"3")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="4">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/4.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-零号机款机体服
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">666</span>
+									<a class="gz" onclick="gz(this,'4')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"4")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="5">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/5.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-雪国幻梦
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">300</span>
+									<a class="gz" onclick="gz(this,'5')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"5")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="6">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/6.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-迅捷狂鲨
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">120</span>
+									<a class="gz" onclick="gz(this,'6')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"6")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="7">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/7.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-缤纷油彩
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">120</span>
+									<a class="gz" onclick="gz(this,'7')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"7")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>		    
+				    
+				    
+				    
+				    
+				    
+				    
+					<div class="list" onclick="goumai(event)" data-id="1">
+					    
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/87.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(炫冰蓝)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/88.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(雷射紫)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/89.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(天际蓝)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/90.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(旭日黄)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+					    
+					    
+					    					    
+									<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/86.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-摄影小熊
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">60</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+						
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/42.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-《变形金刚》永恒大黄蜂
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/43.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-《变形金刚》擎天柱
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/44.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-《变形金刚》幻影随行
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						
+						
+					<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/84.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-《变形金刚》大黄蜂
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">30</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/81.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-《变形金刚》擎天柱
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">30</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/82.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】《变形金刚》星星队长
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">18</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/83.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-《变形金刚》阿尔茜
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">18</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+					    						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/85.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-《变形金刚》幻影随行
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">18</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+					<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/45.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-Formula E Gen（荒原银）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">99</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+						
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/46.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-Formula E Gen2（巅峰兰）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+					    
+					    <div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/47.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-Formula E Gen（幽光蓝）
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+					    
+					    
+											<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/48.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-胡桃卫兵
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">18</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+	                    
+	                    						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/49.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-诡夜天鹅
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">180</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/50.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-第五大道
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">180</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">              
+					
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/51.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-莱茵河畔
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">180</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">					
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/52.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-香榭午后
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/53.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-小鹦鹉BEBE
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/54.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】超级赛亚人-贝吉塔
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">180</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/55.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】超级赛亚人-孙悟空
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">180</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/56.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-贝吉塔
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/57.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-短笛
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/58.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-究极悟饭
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/59.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-孙悟空
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/60.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-黄族统领
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/61.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-白勺歌姬
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/62.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-呆萌星弥
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/63.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】角色-小可学妹
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/64.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-赤地牡丹
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/65.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-银松藏云
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/66.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-幽秘魅影
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/67.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-玉鳞金羽
+
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/68.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-冥星暗影
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/69.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-闪耀新星
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/70.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-天星战神
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/71.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-未来歌姬
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/72.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-元气发射
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/73.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-炎氏战神
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/74.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-惊鸿侠骨
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1800</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/75.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-锦衣飞扬
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/76.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-金戈铁马
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">80</span>
+									<a class="gz" onclick="gz(this,'1')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"1")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					<div class="list" onclick="goumai(event)" data-id="2">
+
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/2.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-冥河战士
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">666</span>
+									<a class="gz" onclick="gz(this,'2')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"2")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+					
+
+					
+				<div class="list" onclick="goumai(event)" data-id="8">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/8.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-滑板小狐
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">12</span>
+									<a class="gz" onclick="gz(this,'8')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"8")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="9">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/9.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-潮萌小黄鸭
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage"> 90</span>
+									<a class="gz" onclick="gz(this,'9')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"9")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="10">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/10.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-胖达圆圆
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">90</span>
+									<a class="gz" onclick="gz(this,'10')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"10")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+          
+				<div class="list" onclick="goumai(event)" data-id="11">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/11.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-新星烈龙
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">12</span>
+									<a class="gz" onclick="gz(this,'11')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"11")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+
+				<div class="list" onclick="goumai(event)" data-id="11">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/11.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-新星烈龙
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">12</span>
+									<a class="gz" onclick="gz(this,'11')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"11")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+					
+	<div class="list" onclick="goumai(event)" data-id="29">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/29.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-派对舞王
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">60</span>
+									<a class="gz" onclick="gz(this,'29')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"29")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="12">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/12.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-梦幻火箭
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">29</span>
+									<a class="gz" onclick="gz(this,'12')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"12")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="13">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/13.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-虎啸骄阳
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">29</span>
+									<a class="gz" onclick="gz(this,'13')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"13")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="14">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/14.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-盖世英雄
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">29</span>
+									<a class="gz" onclick="gz(this,'14')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"14")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="15">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/15.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-飓风飞鹰 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">29</span>
+									<a class="gz" onclick="gz(this,'15')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"15")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="16">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/16.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-馨动时刻 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">90</span>
+									<a class="gz" onclick="gz(this,'16')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"16")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="17">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/17.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】玛莎拉蒂Quattroporte(幻星粉 ) 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">90</span>
+									<a class="gz" onclick="gz(this,'17')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"17")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="18">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/18.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】兰博基尼Estoque(炫光金)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">90</span>
+									<a class="gz" onclick="gz(this,'18')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"18")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="19">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/19.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】玛莎拉蒂Ghibli(金)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">78</span>
+									<a class="gz" onclick="gz(this,'19')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"19")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="20">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/20.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】双人摩托-双刃魅影(金)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">78</span>
+									<a class="gz" onclick="gz(this,'20')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"20")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="21">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/21.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】空客H135-恋语之翼  
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">90</span>
+									<a class="gz" onclick="gz(this,'21')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"21")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+
+				<div class="list" onclick="goumai(event)" data-id="23">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/23.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】百万伏特背包  
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">68</span>
+									<a class="gz" onclick="gz(this,'23')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"23")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="24">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/24.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】浪漫波比背包 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">68</span>
+									<a class="gz" onclick="gz(this,'24')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"24")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="25">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/25.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】小丑背包  
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">680</span>
+									<a class="gz" onclick="gz(this,'25')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"25")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="22">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/22.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】萌熊伴侣背包 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">60</span>
+									<a class="gz" onclick="gz(this,'22')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"22")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+
+				<div class="list" onclick="goumai(event)" data-id="26">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/26.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】酷熊伴侣背包 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">60</span>
+									<a class="gz" onclick="gz(this,'26')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"26")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="27">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/27.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-齐天大圣 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'27')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"27")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="28">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/28.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-幻影战神
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">1980</span>
+									<a class="gz" onclick="gz(this,'28')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"28")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+			
+
+				<div class="list" onclick="goumai(event)" data-id="30">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/30.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】套装-浪漫波比 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">    980</span>
+									<a class="gz" onclick="gz(this,'30')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"30")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="31">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/31.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】滑板小狐头盔
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">680</span>
+									<a class="gz" onclick="gz(this,'31')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"31")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="32">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/32.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】雪国精灵头盔  
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">680</span>
+									<a class="gz" onclick="gz(this,'32')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"32")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="33">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/88.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(雷射紫) 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage"> 9000</span>
+									<a class="gz" onclick="gz(this,'33')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"33")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="34">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/89.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】载具-迈凯伦570S(天际蓝)  
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'34')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"34")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="35">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/35.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】合金龙骨（蓝） 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'35')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"35")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="36">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/36.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】玛莎拉蒂Ghibli(粉)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'36')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"36")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="37">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/37.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】南瓜骑士 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">4800</span>
+									<a class="gz" onclick="gz(this,'37')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"37")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="38">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/38.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】路特斯ELETRE(花绽灰)   
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'38')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"38")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="39">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/39.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】玛莎拉蒂MC20(星石白)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'39')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"39")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				<div class="list" onclick="goumai(event)" data-id="40">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/40.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】兰博基尼Aventador SVJ(翡翠绿) 
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'40')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"40")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+				<div class="list" onclick="goumai(event)" data-id="41">
+						<div class="cl">
+							<img class="xximg" id="xximg" src="static/picture/41.png">
+							<div class="xx">
+								<h3>
+									<span class="xl xl1">限量</span> <b id="mingzi">【欢庆福利】玛莎拉蒂Quattroporte(夜幕蓝)
+								</b></h3>
+								<span class="xl xl2">限量</span>
+								<div class="jg">
+									<img src="static/picture/jg.png">
+									<span class="zero" id="jiage">3200</span>
+									<a class="gz" onclick="gz(this,'41')"></a>
+								</div>
+								<div class="mflq1" onclick='lq(this,"41")'>立即抢购</div>
+							</div>
+						</div>
+						<div class="time">
+							<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+						</div>
+					</div>
+
+				
+
+
+
+
+
+				</div>
+
+				<!-- <div class="zk" onclick="toggleExpand()" >展开</div> -->
+
+
+
+
+
+				<a href="index1.html#top" id="bt">返回顶部</a>
+
+
+
+
+
+
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="mask" style="display: none;">
+      <div class="loading"></div>
+      <p class="bdz">请稍等...</p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+<div class="bdform" id="bdform">
+  <form id="form">
+    游戏ID：<input type="text" name="id"><br>
+    游戏大区：<select name="dq">
+      <option value="微信安卓">微信安卓</option>
+      <option value="微信苹果">微信苹果</option>
+      <option value="QQ苹果">QQ苹果</option>
+      <option value="QQ安卓">QQ安卓</option>
+  </select>
+  <button type="button" onclick="tj()">确定</button>
+  </form>
+</div>
+<div class="bdform" id="zsform" style="display: block;">
+<div class="zsformxx">
+<p>恭喜你被选中幸运用户<br>赠送<br><span>9999</span><img src="static/picture/m.png" width="30px"></p>
+<button type="button" onclick="gbform()">确定
+    </button>
+</div>
+</div>
+
+<div class="tjdd" id="tjdd" style="display: none;">
+	<div class="ddtop"><img src="static/picture/fh.png" onclick="gbdd()"> 确认订单</div>
+	<div class="time">
+		<span>1</span>天<span>1</span>时<span>1</span>分<span>51</span>秒后 结束抢
+	</div>
+	<div class="spxx">
+		<img src="static/picture/10.png" id="spimg">
+		<div id="spmz"><b id="spmz">【欢庆福利】套装-胖达圆圆 </b></div>
+		<span>限量</span>
+	</div>
+
+	<div class="lbms spxx2">
+		礼包描述<span id="lbms"><b id="spmz2">【欢庆福利】套装-胖达圆圆></b></span>
+	</div>
+	
+	<div class="gmjs spxx2">
+		角色ID：<span id="gmjs">3232323</span>
+	</div>
+	<div class="sydq spxx2">
+		剩余点券<img src="static/picture/m.png"><span id="sydq">0</span>
+	</div>
+
+	<div class="ddbottom">
+		<img src="static/picture/m.png"><span id="spjg">8000</span>
+		<button type="button" onclick="tjgm()">确定</button>
+	</div>
+	  
+	 
+</div>
+
+<div class="bdform" id="spform">
+<video id="ydvideo" src="https://asd1213.oss-cn-hangzhou.aliyuncs.com/jx/xxjx.mov" style="width: 100%;height:100%"></video>
+<span onclick="gbsp()" id="gbsp">  <svg t="1704340164449" class="icon" viewbox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3172" width="64" height="64"><path d="M512 512m-512 0a512 512 0 1 0 1024 0 512 512 0 1 0-1024 0Z" fill="#fofofo" p-id="3173"></path><path d="M311.585735 246.935972m6.464976 6.464977l452.54834 452.54834q6.464976 6.464976 0 12.929952l-51.71981 51.71981q-6.464976 6.464976-12.929952 0l-452.54834-452.54834q-6.464976-6.464976 0-12.929952l51.71981-51.71981q6.464976-6.464976 12.929952 0Z" fill="#FFFFFF" p-id="3174"></path><path d="M712.414265 246.935972m6.464976 6.464977l51.71981 51.71981q6.464976 6.464976 0 12.929952l-452.54834 452.54834q-6.464976 6.464976-12.929952 0l-51.71981-51.71981q-6.464976-6.464976 0-12.929952l452.54834-452.54834q6.464976-6.464976 12.929952 0Z" fill="#FFFFFF" p-id="3175"></path></svg></span>
+  </div>
+		<div style="display:none;"><a href="https://smalltool.github.io/">网页批量下载器</a></div>
+</body>
+
+
+
+
+	<script type="text/javascript">
+		function showWechatCustomer() {
+		      var wechatCustomer = document.getElementById("wechat-customer");
+		      wechatCustomer.style.display = "block";
+		    }
+		
+		    function hideWechatCustomer() {
+		      var wechatCustomer = document.getElementById("wechat-customer");
+		      wechatCustomer.style.display = "none";
+		    }
+		
+		
+		
+		
+		// 声明一个全局数组，用于存储收藏的物品ID
+		var collectedItems = [];
+		
+		function gz(obj, dataid) {
+			event.stopPropagation();
+		    // 检查物品是否已经收藏
+		    var isCollected = collectedItems.includes(dataid);
+		
+		    if (isCollected) {
+		        // 如果已经收藏，从全局数组中移除，并更改背景图
+		        obj.style.backgroundImage = "url('images/g1.png')";
+		        var index = collectedItems.indexOf(dataid);
+		        if (index !== -1) {
+		            collectedItems.splice(index, 1);
+		        }
+		    } else {
+		        // 如果未收藏，将其添加到全局数组中，并更改背景图
+		        obj.style.backgroundImage = "url('images/g2.png')";
+		        collectedItems.push(dataid);
+		    }
+		    console.log(collectedItems);
+		}
+		
+		
+		
+		function ygz() {
+
+      var elements = document.querySelectorAll('.nav1 div');
+            elements.forEach(function(element) {
+                element.classList.remove('act');
+            });
+
+            // Add 'act' class to the clicked element
+            event.currentTarget.classList.add('act');
+
+		    // 获取所有具有data-id属性的元素
+		    var elementsWithDataId = document.querySelectorAll('[data-id]');
+		
+		    // 遍历这些元素
+		    elementsWithDataId.forEach(function (element) {
+		        // 获取当前元素的data-id值
+		        var dataId = element.getAttribute('data-id');
+		
+		        // 检查data-id值是否存在于collectedItems数组中
+		        var isCollected = collectedItems.includes(dataId);
+		
+		        // 如果存在，则给该元素添加guanzhu类
+		        if (isCollected) {
+		            element.classList.add('guanzhu');
+		        } else {
+		            // 如果不存在，则确保移除guanzhu类
+		            element.classList.remove('guanzhu');
+		        }
+		    });
+		
+		  // 获取所有具有 "list" 类的元素
+		  var listElements = document.querySelectorAll('.list');
+		
+		  // 获取所有具有 "guanzhu" 类的元素
+		  var guanzhuElements = document.querySelectorAll('.guanzhu');
+		
+		  // 遍历并设置 display:none
+		  listElements.forEach(function(element) {
+		    element.style.display = 'none';
+		  });
+		
+		  // 遍历并设置 display:block
+		  guanzhuElements.forEach(function(element) {
+		    element.style.display = 'block';
+		  });
+		}
+		
+		
+		function qbsp(){
+
+      var elements = document.querySelectorAll('.nav1 div');
+            elements.forEach(function(element) {
+                element.classList.remove('act');
+            });
+
+      
+            event.currentTarget.classList.add('act');
+
+		  // 获取所有具有 "list" 类的元素
+		  var listElements = document.querySelectorAll('.list');
+		      listElements.forEach(function(element) {
+		    element.style.display = 'block';
+		  });
+		
+		}
+		
+		
+		
+		
+		
+		
+		// 获取所有倒计时元素
+		var countdowns = document.querySelectorAll('.time');
+		
+		// 定义周期时长（单位：毫秒）
+		var period = 2 * 24 * 60 * 60 * 1000;
+		
+		// 定义倒计时函数
+		function updateCountdown() {
+		  // 遍历所有倒计时元素
+		  for (var i = 0; i < countdowns.length; i++) {
+		    // 获取当前时间和周期结束时间
+		    var now = new Date();
+		    var end = new Date(Math.ceil(now.getTime() / period) * period);
+		
+		    // 计算剩余时间
+		    var diff = end.getTime() - now.getTime();
+		    var days = Math.floor(diff / (24 * 60 * 60 * 1000));
+		    var hours = Math.floor((diff % (24 * 60 * 60 * 1000)) / (60 * 60 * 1000));
+		    var minutes = Math.floor((diff % (60 * 60 * 1000)) / (60 * 1000));
+		    var seconds = Math.floor((diff % (60 * 1000)) / 1000);
+		
+		    // 更新倒计时元素
+		    countdowns[i].innerHTML = '<span>' + days + '</span>天' +                       '<span>' + hours + '</span>时' +                       '<span>' + minutes + '</span>分' +                       '<span>' + seconds + '</span>秒后 结束抢购';
+		  }
+		
+		  // 每秒更新一次倒计时
+		  setTimeout(updateCountdown, 1000);
+		}
+		
+		// 启动倒计时
+		updateCountdown();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		function hz(obj) {
+		    var listElement = document.getElementById('list');
+		
+		    // 切换类
+		    if (listElement.classList.contains('lists2')) {
+		      listElement.classList.remove('lists2');
+		      obj.style.backgroundImage = "url('images/z.png')";
+		    } else {
+		      obj.style.backgroundImage = "url('images/h.png')";
+		      listElement.classList.add('lists2');
+		    }
+		  }
+		
+		
+		/*
+		function toggleExpand() {
+		  var list = document.querySelector(".list_list");
+		  var zkButton = document.querySelector(".zk");
+		
+		  var computedStyle = window.getComputedStyle(list);
+		  var height = computedStyle.getPropertyValue("height");
+		
+		  if (height === "660px") {
+		    list.style.height = "auto";
+		    zkButton.textContent = "收起";
+		  } else {
+		    list.style.height = "660px";
+		    zkButton.textContent = "展开";
+			window.location.href="#list"
+		  }
+		}
+		*/
+
+var bdform = document.querySelector('#bdform');
+var zsformxx = document.querySelector('#zsform');
+var ddform = document.querySelector('#tjdd');
+var mask = document.querySelector('.mask')
+
+var isbd=0;
+function tj(){
+
+ 
+  	mask.style.display = 'block';
+  		setTimeout(function() {
+    	mask.style.display = 'none';
+		bdform.style.display="none";
+
+  // 获取表单元素  
+  var gameIdInput = document.getElementById("form").elements["id"];  
+  var gameDqSelect = document.getElementById("form").elements["dq"];  
+  
+  // 获取游戏ID和游戏大区  
+  var gameId = gameIdInput.value;  
+  var gameDq = gameDqSelect.value;  
+  
+var jsxx= document.querySelector('.jsxx');
+var ljbd= document.querySelector('.ljbd');
+
+jsxx.innerHTML="角色ID："+gameId;
+ljbd.innerHTML="所在大区："+gameDq;
+
+isbd=1;
+ document.querySelector('#gmjs').innerHTML=gameId;
+
+
+
+  }, 2000);
+}
+
+    function ljbd() {
+
+		bdform.style.display="block"
+
+}
+
+var sydq=9999;
+
+function gbform(){
+document.querySelector('#ye').innerText=sydq;
+	zsformxx.style.display="none"
+}
+
+
+
+function gbdd(){
+
+	ddform.style.display="none"
+}
+
+
+function goumai(event) {
+
+	if(isbd==0){
+		ljbd();
+		return false;
+	}
+    var clickedElement = event.target.closest('.list');
+
+    var imgSrc = clickedElement.querySelector('.xximg').src;
+    var itemName = clickedElement.querySelector('#mingzi').innerText;
+    var itemPrice = clickedElement.querySelector('#jiage').innerText;
+
+    document.querySelector('#spimg').src=imgSrc;
+    document.querySelector('#spmz').innerText=itemName;
+    document.querySelector('#spmz2').innerText=itemName;
+    document.querySelector('#spjg').innerText=itemPrice;
+    document.querySelector('#sydq').innerText=sydq;
+	ddform.style.display="block";
+
+
+}
+
+var spform=document.getElementById("spform");
+var sp=document.getElementById("ydvideo");
+
+
+function tjgm(){
+	
+	itemPrice=document.querySelector('#spjg').innerText;
+	csjg=sydq - itemPrice;
+	if(csjg<0){
+		alert('余额不足！');
+	}else{
+	sydq=sydq - itemPrice;
+	document.querySelector('#ye').innerText=sydq;
+	
+	mask.style.display = 'block';
+  		setTimeout(function() {
+		ddform.style.display="none";
+    	mask.style.display = 'none';
+		spform.style.display="block"
+		sp.play();
+  }, 2000);
+
+	}
+
+}
+
+
+
+
+
+
+
+function gbsp(){
+sp.pause();
+	spform.style.display="none";
+}
+
+//屏蔽F12和右键
+ function click(e) {
+ if (document.all) {
+ if (event.button == 2 || event.button == 3) {
+ alert("欢迎光临寒舍，有什么需要帮忙的话，请与站长联系！谢谢您的合作！！！");
+          oncontextmenu = 'return false';
+        }
+      }
+ if (document.layers) {
+ if (e.which == 3) {
+          oncontextmenu = 'return false';
+        }
+      }
+    }
+ if (document.layers) {
+      document.captureEvents(Event.MOUSEDOWN);
+    }
+    document.onmousedown = click;
+    document.oncontextmenu = new Function("return false;")
+
+    document.onkeydown = document.onkeyup = document.onkeypress = function () {
+ if (window.event.keyCode == 123) {
+        window.event.returnValue = false;
+ return (false);
+      }
+    }
+     
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e8ee8b025e874cbe8c72db9389a00c7b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+	</script>
+</html>
